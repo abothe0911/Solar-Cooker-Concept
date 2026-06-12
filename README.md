@@ -1,0 +1,1 @@
+This python script written utilizes a solar energy concept that relies on a Raspberry Pi to power a servo, which in turn can be connected to a solar panel that is connected to a cooker for sustainable cooking.
